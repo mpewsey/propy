@@ -1,0 +1,4 @@
+[run]
+source = propy
+omit =
+    setup.py
