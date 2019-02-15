@@ -16,7 +16,7 @@ manually by creating custom setter, getter, and deleter functions. With this
 package, however, you can use the provided `bool_property` function instead
 as follows:
 
-```
+```python
 import propy
 
 class Example():
