@@ -25,7 +25,7 @@ def repr_method(*args):
     """
     def func(self):
         if args and args[0] == '__all__':
-            props = vars(self).keys()
+            props = sorted(vars(self).keys())
         else:
             props = args
 

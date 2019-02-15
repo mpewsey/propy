@@ -1,14 +1,14 @@
 from .methods import *
 
 
-class BaseMethodTest1():
+class BaseMethodTest1(object):
     __repr__ = repr_method('x', 'y')
 
     def __init__(self):
         self.x, self.y, self.z = 1, 2, 3
 
 
-class BaseMethodTest2():
+class BaseMethodTest2(object):
     __repr__ = repr_method('__all__')
 
     def __init__(self):
