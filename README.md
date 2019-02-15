@@ -1,5 +1,11 @@
 # Propy
 
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/propy.svg)
+![PyPI](https://img.shields.io/pypi/v/propy.svg)
+[![Build Status](https://travis-ci.com/mpewsey/propy.svg?branch=master)](https://travis-ci.com/mpewsey/propy)
+[![Documentation Status](https://readthedocs.org/projects/propy/badge/?version=latest)](https://propy.readthedocs.io/en/latest/?badge=latest)
+[![codecov](https://codecov.io/gh/mpewsey/propy/branch/master/graph/badge.svg)](https://codecov.io/gh/mpewsey/propy)
+
 ## About
 
 This package contains convenience functions for creating class properties
